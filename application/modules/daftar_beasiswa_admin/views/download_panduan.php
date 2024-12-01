@@ -1,0 +1,1 @@
+<a href="<?= base_url('uploads/petunjuk_pendaftaran_mahasiswa_oleh_admin.pdf'); ?>" target="_blank"></a>
